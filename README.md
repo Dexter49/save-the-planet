@@ -5,5 +5,5 @@ This repo houses every necessary files and links for the Save The Planet app ide
 
 
 
-## Save The Planet design files
+## App Design
 Figma Design - https://www.figma.com/file/TyGQIqk5MQNluVpOdL3eDn/
